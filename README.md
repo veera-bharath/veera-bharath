@@ -24,29 +24,6 @@ I don't just write code — I negotiate with bugs 🤝🐛
 
 ---
 
-## ❓ Quick Q&A
-
-- ❓ Do I write clean code?  
-  → Yes… after 3 refactors
-
-- ❓ Do I enjoy debugging?  
-  → Only when it's someone else's code
-
-- ❓ Tabs or spaces?  
-  → Depends who's watching 👀
-
-- ❓ Why automation?  
-  → Because I'm lazy… efficiently lazy ⚡
-
----
-
-## 🐛 Bug Philosophy
-
-Bugs are not errors…  
-They're just undocumented features waiting to be understood.
-
----
-
 ## 💻 Tech Stack
 
 <table>
@@ -97,6 +74,29 @@ They're just undocumented features waiting to be understood.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## ❓ Quick Q&A
+
+- ❓ Do I write clean code?  
+  → Yes… after 3 refactors
+
+- ❓ Do I enjoy debugging?  
+  → Only when it's someone else's code
+
+- ❓ Tabs or spaces?  
+  → Depends who's watching 👀
+
+- ❓ Why automation?  
+  → Because I'm lazy… efficiently lazy ⚡
+
+---
+
+## 🐛 Bug Philosophy
+
+Bugs are not errors…  
+They're just undocumented features waiting to be understood.
 
 ---
 
