@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-**.NET + Angular** dev — I speak fluent C# and *almost* fluent CSS.  
+**.NET + Angular** developer focused on C# and modern web UI.  
 I ship enterprise apps by day and AI-powered side projects by night.  
 I don't just write code — I negotiate with bugs 🤝🐛
 
