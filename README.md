@@ -14,12 +14,36 @@
 
 ## 👨‍💻 About Me
 
-> **Full Stack Developer** specialising in the **.NET ecosystem** and **Angular** — with a growing obsession for shipping faster using AI.
+**.NET + Angular** dev — I speak fluent C# and *almost* fluent CSS.  
+I ship enterprise apps by day and AI-powered side projects by night.  
+I don't just write code — I negotiate with bugs 🤝🐛
 
-- 🏗️ I build enterprise-grade web apps with **ASP.NET Core**, **Web API**, and **Angular + TypeScript**
-- 🤖 I integrate AI into my daily workflow — from **Claude Code** to **MCP servers** to local models via **Ollama**
-- 🛠️ Currently shipping: **Timesheet Manager v3.0** — an AI-powered Electron desktop app with natural language entry, an AI chat sidebar, and auto-generated standup summaries
-- 🎮 Off the keyboard: mixing colours, solving puzzles, conquering digital worlds
+- 🛠️ Now shipping: **Timesheet Manager v3.0** — because even AI needs to log hours
+- 🤖 Vibe codes with **Claude Code**, **MCP servers**, **Ollama**
+- 🎮 Off the keyboard: solving puzzles, mixing colours, and occasionally touching grass 🌱
+
+---
+
+## ❓ Quick Q&A
+
+- ❓ Do I write clean code?  
+  → Yes… after 3 refactors
+
+- ❓ Do I enjoy debugging?  
+  → Only when it's someone else's code
+
+- ❓ Tabs or spaces?  
+  → Depends who's watching 👀
+
+- ❓ Why automation?  
+  → Because I'm lazy… efficiently lazy ⚡
+
+---
+
+## 🐛 Bug Philosophy
+
+Bugs are not errors…  
+They're just undocumented features waiting to be understood.
 
 ---
 
@@ -79,5 +103,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=veera-bharath&style=flat-square&color=58A6FF" alt="Profile views" />
   <br/><br/>
-  <i>⚡ Building smarter, one commit at a time.</i>
+
+> ⚡ Automating the boring, building the fun, breaking things occasionally.
+
 </div>
