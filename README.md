@@ -16,9 +16,9 @@
 
 **.NET + Angular** developer focused on C# and modern web UI.  
 I ship enterprise apps by day and AI-powered side projects by night.  
-I don't just write code — I negotiate with bugs 🤝🐛
+I don't just write code, I negotiate with bugs 🤝🐛
 
-- 🛠️ Now shipping: **Timesheet Manager v3.0** — because even AI needs to log hours
+- 🛠️ Now shipping: **Timesheet Manager v3.0** because even AI needs to log hours
 - 🤖 Vibe codes with **Claude Code**, **MCP servers**, **Ollama**
 - 🎮 Off the keyboard: solving puzzles, mixing colours, and occasionally touching grass 🌱
 
@@ -77,22 +77,6 @@ I don't just write code — I negotiate with bugs 🤝🐛
 
 ---
 
-## ❓ Quick Q&A
-
-- ❓ Do I write clean code?  
-  → Yes… after 3 refactors
-
-- ❓ Do I enjoy debugging?  
-  → Only when it's someone else's code
-
-- ❓ Tabs or spaces?  
-  → Depends who's watching 👀
-
-- ❓ Why automation?  
-  → Because I'm lazy… efficiently lazy ⚡
-
----
-
 ## 🐛 Bug Philosophy
 
 Bugs are not errors…  
@@ -104,6 +88,6 @@ They're just undocumented features waiting to be understood.
   <img src="https://komarev.com/ghpvc/?username=veera-bharath&style=flat-square&color=58A6FF" alt="Profile views" />
   <br/><br/>
 
-> ⚡ Automating the boring, building the fun, breaking things occasionally.
+  ⚡ Automating the boring, building the fun, breaking things occasionally.
 
 </div>
