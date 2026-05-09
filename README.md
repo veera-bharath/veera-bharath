@@ -21,7 +21,7 @@
 I ship enterprise apps by day and AI-powered side projects by night.  
 I don't just write code, I negotiate with bugs 🤝🐛
 
-- 🛠️ Now shipping: **Timesheet Manager v3.0** because even AI needs to log hours
+- 🛠️ Now shipping: **Timesheet Manager v3.1** because even AI needs to log hours
 - 🤖 Vibe codes with **Claude Code**, **MCP servers**, **Ollama**
 - 🎮 Off the keyboard: solving puzzles, mixing colours, and occasionally touching grass 🌱
 
