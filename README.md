@@ -79,6 +79,7 @@ I don't just write code, I negotiate with bugs 🤝🐛
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+![Service Desk](https://img.shields.io/badge/Service_Desk-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
 
 ---
 
