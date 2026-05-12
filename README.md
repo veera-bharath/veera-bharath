@@ -29,9 +29,9 @@ I don't just write code, I negotiate with bugs 🤝🐛
 
 ## 💻 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" colspan="2">
 
 ### 🧠 Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -42,7 +42,7 @@ I don't just write code, I negotiate with bugs 🤝🐛
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" colspan="2">
 
 ### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -54,7 +54,7 @@ I don't just write code, I negotiate with bugs 🤝🐛
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" colspan="2">
 
 ### 🗄️ Data & Cloud
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -65,9 +65,10 @@ I don't just write code, I negotiate with bugs 🤝🐛
 
 </td>
 </tr>
-</table>
+<tr>
+<td valign="top" colspan="3">
 
-### 🤖 AI & Tools I Use Daily
+### 🤖 AI I Use Daily
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -75,11 +76,20 @@ I don't just write code, I negotiate with bugs 🤝🐛
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-6E57E0?style=flat-square&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-0A0A0A?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" colspan="3">
+
+### 🛠️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
 ![Service Desk](https://img.shields.io/badge/Service_Desk-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
