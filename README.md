@@ -68,7 +68,7 @@ I don't just write code, I negotiate with bugs 🤝🐛
 <tr>
 <td valign="top" colspan="3">
 
-### 🤖 AI I Use Daily
+### 🤖 AI Tools
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -80,7 +80,7 @@ I don't just write code, I negotiate with bugs 🤝🐛
 </td>
 <td valign="top" colspan="3">
 
-### 🛠️ Dev Tools
+### 🛠️ Dev Tools I use daily
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
