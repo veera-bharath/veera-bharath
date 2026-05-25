@@ -28,7 +28,7 @@ I don’t just write code - I make deals with bugs 🤝🐛
 
 🎮 Off the keyboard: solving puzzles, experimenting with colors, and occasionally touching grass 🌱
 
-If you like building cool things, come join my space and contribute
+If you're building something cool or have any ideas - **let’s connect and build together.**
 
 ---
 
