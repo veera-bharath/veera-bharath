@@ -17,11 +17,12 @@
 
 ## 👨‍💻 About Me
 
-**.NET + Angular** Developer crafting scalable backends and clean, modern UIs.  
-I ship enterprise apps by day and AI-powered side projects by night.  
-I don't just write code, I negotiate with bugs 🤝🐛
+**.NET + Angular** Developer building scalable backends and sleek, modern UIs.
+Shipping enterprise systems by day, crafting AI-powered side projects by night.
+I don’t just write code - I make deals with bugs 🤝🐛
 
-- 🛠️ Now shipping: **Timesheet Manager**, **Streakly** and more
+- 🛠️ Now shipping: **Timesheet Manager**, **Streakly** and
+  <a href="https://github.com/veera-bharath?tab=repositories" target="_blank" rel="noopener noreferrer">a bunch of experiments →</a>
 - 🤖 Exploring AI workflows with **Claude Code**, **MCP servers**, **Ollama**
 - ⚡ Focused on productivity, developer tooling, and clean architecture
 
