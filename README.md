@@ -17,13 +17,17 @@
 
 ## 👨‍💻 About Me
 
-**.NET + Angular** developer focused on C# and modern web UI.  
+**.NET + Angular** Developer crafting scalable backends and clean, modern UIs.  
 I ship enterprise apps by day and AI-powered side projects by night.  
 I don't just write code, I negotiate with bugs 🤝🐛
 
-- 🛠️ Now shipping: **Timesheet Manager v3.1** because even AI needs to log hours
-- 🤖 Vibe codes with **Claude Code**, **MCP servers**, **Ollama**
-- 🎮 Off the keyboard: solving puzzles, mixing colours, and occasionally touching grass 🌱
+- 🛠️ Now shipping: **Timesheet Manager**, **Streakly** and more
+- 🤖 Exploring AI workflows with **Claude Code**, **MCP servers**, **Ollama**
+- ⚡ Focused on productivity, developer tooling, and clean architecture
+
+🎮 Off the keyboard: solving puzzles, experimenting with colors, and occasionally touching grass 🌱
+
+If you like building cool things, come join my space and contribute
 
 ---
 
@@ -90,13 +94,6 @@ I don't just write code, I negotiate with bugs 🤝🐛
 </td>
 </tr>
 </table>
-
----
-
-## 🐛 Bug Philosophy
-
-Bugs are not errors…  
-They're just undocumented features waiting to be understood.
 
 ---
 
