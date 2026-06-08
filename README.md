@@ -21,7 +21,7 @@
 Shipping enterprise systems by day, crafting AI-powered side projects by night.
 I don’t just write code - I make deals with bugs 🤝🐛
 
-- 🛠️ Now shipping: **Timesheet Manager**, **Streakly** and
+- 🛠️ Now shipping: **Timesheet Manager**, **Streakly**, **ShortcutHook** and
   <a href="https://github.com/veera-bharath?tab=repositories" target="_blank" rel="noopener noreferrer">a bunch of experiments →</a>
 - 🤖 Exploring AI workflows with **Claude Code**, **MCP servers**, **Ollama**
 - ⚡ Focused on productivity, developer tooling, and clean architecture
